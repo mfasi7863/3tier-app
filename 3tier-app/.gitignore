@@ -1,0 +1,22 @@
+# Secrets — never commit these
+.env
+.env.*
+*.pem
+*.key
+secrets/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React build output
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
