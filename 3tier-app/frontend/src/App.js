@@ -77,7 +77,7 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <h1>🚀 3-Tier EC2 App</h1>
+                <h1>🚀 3-Tier EC2 App - Project</h1>
                 <p>React + Node.js + MySQL on AWS EC2</p>
             </header>
 
